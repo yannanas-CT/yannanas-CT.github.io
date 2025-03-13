@@ -1,3 +1,6 @@
+---
+title: Premier
+nav_order: 2  # Position dans le menu
+---
 # Neuille
-Juge pas je teste github.
-nav_order: 2
+Test
