@@ -1,3 +1,3 @@
-theme: minima  # Remplace "minima" par un autre thème si souhaité
+remote_theme: just-the-docs/just-the-docs
 title: Mon Portfolio
 description: Mon site hébergé avec GitHub Pages et Jekyll
