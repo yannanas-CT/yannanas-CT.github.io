@@ -2,3 +2,5 @@ remote_theme: just-the-docs/just-the-docs
 title: Mon Portfolio
 description: Mon site hébergé avec GitHub Pages et Jekyll
 nav_order: 1
+exclude:
+  - README.md
