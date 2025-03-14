@@ -1,5 +1,5 @@
 ---
-title: "Sécurités"
+title: "Sécurité"
 nav_order: 4
 ---
 
