@@ -1,5 +1,3 @@
-nav_order: 2
-
 # 📘 Mon Portfolio BTS SIO
 
 Bienvenue sur mon portfolio en ligne ! Ce site regroupe tous mes cours et travaux réalisés durant mon BTS SIO (Services Informatiques aux Organisations), option **SISR**.
