@@ -1,3 +1,8 @@
+---
+title: "Stages"
+nav_order: 6
+---
+
 #Fichier temporaire
 
 La suite du site est en construction par les Portugais.
