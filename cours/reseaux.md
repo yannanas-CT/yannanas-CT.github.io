@@ -5,4 +5,4 @@ nav_order: 2
 
 #Fichier temporaire
 
-<iframe src="/reseaux/TD-CLI/partie1.pdf" width="100%" height="600px"></iframe>
+[📖 Voir le cours Réseaux](reseaux/TD-CLI/partie1.pdf){:target="_blank"}
