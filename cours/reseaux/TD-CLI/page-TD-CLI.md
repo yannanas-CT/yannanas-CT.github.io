@@ -1,6 +1,6 @@
 ---
 title: "TCP/IP"
-parent: "../reseaux.md"
+parent: "Réseaux"
 nav_order: 1
 ---
 
