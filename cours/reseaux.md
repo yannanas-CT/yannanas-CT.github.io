@@ -2,7 +2,7 @@
 title: "Réseaux"
 nav_order: 2
 has_children: true
-toc_label: "Sommaire du cours"
+toc_label: "Sommaire"
 ---
 
 #Fichier temporaire
