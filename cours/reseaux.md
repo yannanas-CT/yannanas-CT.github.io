@@ -1,8 +1,8 @@
 ---
 title: "Réseaux"
+toc_label: "Sommaire"
 nav_order: 2
 has_children: true
-toc_label: "Sommaire"
 ---
 
 #Fichier temporaire
