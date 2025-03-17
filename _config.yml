@@ -1,7 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
 title: Mon Portfolio
 color_scheme: dark
-just_the_docs:
-  heading: "Sommaire"
 exclude:
   - LICENSE
