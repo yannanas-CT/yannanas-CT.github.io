@@ -1,6 +1,6 @@
 ---
 title: "Réseaux"
-toc_label: "Sommaire"
+toc_label: "Mes cours de Réseaux"
 nav_order: 2
 has_children: true
 ---
